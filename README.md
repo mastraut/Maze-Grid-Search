@@ -1,4 +1,3 @@
-# Maze-Grid-Search
 <h1>HackerRank Maze Grid Search in Python</h1>
 
 <b>Input Format</b><br>	
